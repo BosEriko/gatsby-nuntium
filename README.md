@@ -62,3 +62,6 @@ You can run the example with:
 ```shell
 yarn workspace example develop
 ```
+
+References:
+https://www.gatsbyjs.org/tutorial/building-a-theme
