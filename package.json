@@ -8,7 +8,7 @@
     "build": "yarn workspace site build"
   },
   "workspaces": [
-    "gatsby-theme-minimal",
+    "gatsby-theme-events",
     "site"
   ]
 }
